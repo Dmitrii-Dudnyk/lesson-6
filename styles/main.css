@@ -1,0 +1,119 @@
+.body {
+	color: #5D5A88;
+	background-color: #fff;
+}
+
+.secondary-color {
+	color: #9795B5;
+}
+
+.header {
+	background-color: #F9F9FF;
+}
+
+.link {
+	color: #5D5A88;
+}
+
+.link:hover {
+    color: #1500FF;
+}
+
+.link:active {
+    color: #000;
+}
+
+.btn-dark {
+	color: #fff;
+	background-color: #5D5A88;
+}
+
+.btn-dark:hover {
+    background-color: #5F5C7F;
+}
+
+.btn-dark:active {
+    background-color: #A4A2C4;
+}
+
+.btn-light {
+	color: #5D5A88;
+    background-color: #fff;
+	border: 1px solid #D4D2E3;
+}
+
+.btn-light:hover {
+    background-color: #F6F5FF;
+}
+
+.btn-light:active {
+    background-color: #EFEEFB;
+}
+
+.customers {
+	background-color: #F9F9FF;
+}
+
+.customers__title {
+	color: #1E285F;
+}
+
+.results__number-part{
+	color: #BCBACD;
+}
+
+.get-started {
+	background-color: #F2F1FA;
+}
+
+.get-started__text-part {
+	color: #5D5A88;
+}
+
+.get-started__btn {
+	border: 1.5px solid #5D5A88;
+	background-color: initial;
+}
+
+.payments__table {
+	background-color: #fff;
+	border-color: #DDDFE1;
+}
+
+.payments__table-head,
+.payments__table-foot {
+	color: #464A53;
+}
+
+.payments__table-body {
+	color: #6A707E;
+}
+
+.payments__table-body .payments__table-data:nth-child(2),
+.payments__table-body .payments__table-data:nth-child(5) {
+    color: #ABAFB3;
+}
+
+.payments__table-body .payments__table-row:nth-child(2n-1) {
+    background-color: #FAFAFA;
+}
+
+.payments__table-foot {
+	background-color: #FAFAFA;
+}
+
+.set-of-features__apps-item {
+	background-color: #F2F1FA;
+}
+
+.set-of-features__apps-link {
+	color: #8D8BA7;
+}
+
+.footer {
+    color: #9795B5;
+}
+
+.footer__link {
+    color: #ADABC3;;
+}
